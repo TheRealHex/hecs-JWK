@@ -58,7 +58,7 @@ Run from
 	Terminal : hecs &
 ```
 
-<img src="https://github.com/TheRealHex/Hecs/blob/master/snaps/1.gif">
+<img src="https://github.com/TheRealHex/Hecs-JWK/blob/master/snaps/1.gif">
 
 ### MacOS
 
@@ -67,7 +67,7 @@ the following should do:
 
 ```
 $ brew install alure pkg-config
-$ git clone https://github.com/TheRealHex/hecs.git && cd hecs
+$ git clone https://github.com/TheRealHex/Hecs-JWK.git && cd hecs
 $ sed -i '' 's/-Wall -Werror/-Wall/' Makefile
 $ sudo make install
 ```
