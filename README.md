@@ -58,7 +58,7 @@ Run from
 	Terminal : hecs &
 ```
 
-<img src="https://github.com/TheRealHex/Hecs-JWK/blob/master/snaps/1.gif">
+<img src="https://github.com/TheRealHex/hecs-JWK/blob/main/snaps/1.gif">
 
 ### MacOS
 
@@ -138,4 +138,4 @@ properly tuning OpenAL for Hecs-JWK.
  ````
  allow-moves = true
  ````
- <img src='https://github.com/TheRealHex/hecs-JWK/blob/master/img/keyboard.jpg'>
+ <img src='https://github.com/TheRealHex/hecs-JWK/blob/main/img/keyboard.jpg'>
